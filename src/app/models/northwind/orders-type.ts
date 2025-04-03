@@ -1,5 +1,5 @@
-import { DetailsType } from './details-type';
 import { ShipAddressType } from './ship-address-type';
+import { DetailsType } from './details-type';
 
 export interface OrdersType {
   orderID: number;
